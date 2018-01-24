@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tilte: MyString
+  votes: 1
+  author_id: 
+
+two:
+  tilte: MyString
+  votes: 1
+  author_id: 
